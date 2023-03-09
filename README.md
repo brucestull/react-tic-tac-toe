@@ -1,4 +1,4 @@
-# ReactJS Tic-Tac-Toe Tutorial
+# React Tic-Tac-Toe Tutorial
 
 ## Resources
 
